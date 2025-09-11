@@ -8,9 +8,15 @@
 
 # gateway_api_inference_demo
 
-## Requirements
+## Overview
+This repo contains yaml deployment files that were used as part of the Kubecon 2025 demo in North America.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam elit turpis, varius et arcu elementum, viverra rhoncus sem. Aliquam nec sodales magna, et egestas enim. Mauris lobortis ultrices euismod. Pellentesque in arcu lacus. Mauris cursus laoreet nulla, ac vehicula est. Vestibulum eu mauris quis lorem consectetur aliquam ac nec quam. Vestibulum commodo pharetra mi, at bibendum neque faucibus ut. Mauris et tortor sed sem consectetur eleifend ut non magna. Praesent feugiat placerat nibh, varius viverra orci bibendum sed. Vestibulum dapibus ex ut pulvinar facilisis. Quisque sodales enim et augue tempor mattis. Suspendisse finibus congue felis, ac blandit ligula. Praesent condimentum ultrices odio quis semper. Nunc ultrices, nibh quis mattis pellentesque, elit nulla bibendum felis, quis dapibus erat turpis ac urna.
+## References
+
+[Introducing Gateway API Inference Extension](https://kubernetes.io/blog/2025/06/05/introducing-gateway-api-inference-extension/)
+[Deep dive into the Inference Extension](https://kgateway.dev/blog/deep-dive-inference-extensions/)
+[NFG Inference ExtensionDesign Proposal](https://github.com/nginx/nginx-gateway-fabric/blob/main/docs/proposals/gateway-inference-extension.md)
+[NFG Inference Extension Epic](https://github.com/nginx/nginx-gateway-fabric/issues/3644)
 
 ## Getting Started
 
